@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NfcCheckForNxpMifareChip</string>
+    <string name="info_en">press above button to check if the device supports Mifare Ultralight and/or Mifare Classic NFC tags</string>
+</resources>
